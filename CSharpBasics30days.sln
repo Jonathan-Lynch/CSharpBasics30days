@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyMethods", "ManyMethods\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic", "Arithmetic\Arithmetic.csproj", "{F07CE92F-5BFF-42B2-80F5-74B2F54811B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{23426003-1D32-42A6-BA08-478DF82D86D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomChoice", "RandomChoice\RandomChoice.csproj", "{B1C480FC-DF97-4B51-B5CC-A7FDF37D4A0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{F07CE92F-5BFF-42B2-80F5-74B2F54811B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F07CE92F-5BFF-42B2-80F5-74B2F54811B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F07CE92F-5BFF-42B2-80F5-74B2F54811B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23426003-1D32-42A6-BA08-478DF82D86D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23426003-1D32-42A6-BA08-478DF82D86D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23426003-1D32-42A6-BA08-478DF82D86D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23426003-1D32-42A6-BA08-478DF82D86D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C480FC-DF97-4B51-B5CC-A7FDF37D4A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C480FC-DF97-4B51-B5CC-A7FDF37D4A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C480FC-DF97-4B51-B5CC-A7FDF37D4A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C480FC-DF97-4B51-B5CC-A7FDF37D4A0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
